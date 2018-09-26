@@ -1,4 +1,5 @@
 // XXX: http://poj.org/problem?id=2478
+
 #if 1
 #define _GNU_SOURCE
 //#define _XOPEN_SOURCE 700
